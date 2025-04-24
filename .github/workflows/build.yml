@@ -38,6 +38,6 @@ jobs:
       - name: Upload EXE as artifact
         uses: actions/upload-artifact@v2
         with:
-          name: game-exe
+          name: 2D-Arcade-Game-exe
           path: dist/2D-Arcade-Game.exe
 
