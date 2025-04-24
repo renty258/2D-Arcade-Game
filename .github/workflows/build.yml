@@ -39,4 +39,5 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: game-exe
-          path: dist/*  # Путь к файлам .exe (в папке dist)
+          path: dist/2D-Arcade-Game.exe
+
